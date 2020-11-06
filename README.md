@@ -1,4 +1,4 @@
-This is an implementation of a capability based IoT platform for the simulation of IoT microservices. 
+This is an implementation of a capability based IoT platform for the composition of IoT microservices capabilities. 
 This project contains two microservices : 
 
 - an autonomous vehicle experiment verticle which connects to a UCEF DB containing the outcome of an experiment run. 
